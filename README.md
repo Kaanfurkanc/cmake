@@ -1,2 +1,2 @@
 # cmake
-Basic cmake structure.
+###Cross-Platform build system.
